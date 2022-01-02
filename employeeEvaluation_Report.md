@@ -34,7 +34,7 @@ that is about employee performance evaluation features.
   </li>
   <li>EDA</li>
    <li>Feature Selection </li>
-   <li>Dummy values </li>
+   <li>One Hot Encoding Tech. </li>
     <li>Modeling and splited</li>
     <li>Train , Test Data </li>
 </ul>
